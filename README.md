@@ -1,3 +1,3 @@
 # Nlp-hate-speech-analysis
 This project will analysis hate spech from any blog or website url
-Only machine leanriing par included.
+Only machine leanriing par included. Not the web application part
